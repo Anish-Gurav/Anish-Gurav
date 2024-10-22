@@ -75,10 +75,10 @@
      Branch <b>Artificial Intelligence and Data Science</b>
  </div>
 <div align="center"> 
-  <a href="mailto:yashbandal25@gmail.com">
+  <a href="mailto:anish.gurav01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/yash-l-852706259//" target="_blank">
+  <a href="https://www.linkedin.com/in/anish-gurav-929b352a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 <!--   <a href="https://yashl3616.github.io/yashportfolio/" target="_blank">
@@ -140,4 +140,4 @@
 
 
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YashL3616&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
-[![Yash's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anish-Gurav&bg_color=000319&color=00fffb&line=675604&point=7b7d07&area=true&hide_border=true)](https://github.com/Anish-Gurav)
+[![Anish's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anish-Gurav&bg_color=000319&color=00fffb&line=675604&point=7b7d07&area=true&hide_border=true)](https://github.com/Anish-Gurav)
