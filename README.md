@@ -70,9 +70,9 @@
 
 <br>
 <br>
- 🔭 Currently studying at JSPM's RSCOE <br>
-     SY-BTech <br>
-     Branch <b>Information Technology</b>
+ 🔭 Currently studying at P.E.S Modern COE <br>
+     SY-B.E <br>
+     Branch <b>Artificial Intelligence and Data Science</b>
  </div>
 <div align="center"> 
   <a href="mailto:yashbandal25@gmail.com">
